@@ -22,7 +22,9 @@
 <br>
 
 :bulb: Github Status
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=burak-akmanoglu&theme=merko">
 
 :bulb: Most Used Language
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-akmanoglu&layout=compact">
