@@ -1,7 +1,7 @@
 # Hi there, I'm BURAK :wave:
 
-### Back-end Developer | C# - .Net - React Native
-<hr>
+## Back-end Developer | C# - .Net - React Native
+
 <br>
 
 ### Reach Out To Me:
