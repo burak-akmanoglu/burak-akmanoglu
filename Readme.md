@@ -3,11 +3,11 @@
 ### Back-end Developer | C# - .Net - React Native
 <hr>
 <br>
-### Reach Out To Me:
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:https://www.linkedin.com/in/burak-akmanoglu/
->
+### Reach Out To Me:
+
+[https://unpkg.com/simple-icons@v6/icons/linkedin.svg"](https://www.linkedin.com/in/burak-akmanoglu/) 
+
 #### Languages, Framework and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/><img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" width=35 height=35><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width=35 height=35><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width=35 height=35><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width=35 height=35>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="35" height="35"/>
