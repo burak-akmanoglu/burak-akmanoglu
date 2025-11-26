@@ -1,5 +1,5 @@
 # Hi there, I'm BURAK :wave:
-## Back-end Developer | C# - .Net - React Native
+## Software Developer | C# - .Net - JS
 
 <br>
 
